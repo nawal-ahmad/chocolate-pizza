@@ -1,6 +1,6 @@
 #leftheader {
-    margin-left: 10%;
-    margin-top: 20px;
+    margin-left: 15%;
+    margin-top: 15px;
     display: block;
 
 }
@@ -27,18 +27,43 @@ header p {
 
 #rightheader {
     position: relative;
-    margin-right: 10%;
+    margin-right: 15%;
     float: right;
+}
+#rightheader img:nth-child(6){
+    margin-right: 8px;
+        
+
 }
 
 hr.rounded {
     
     border-top: 8px solid #bbb;
     border-radius: 5px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-top: 3%;
 
 
   }
   
+
+
+  #title{
+    margin-left: 15%;
+    margin-right: 15%;
+      
+
+  }
+  #title figure {
+      float: right;
+  }
+  #title figcaption {
+display: inline-block; 
+}
+
+#mainimg {
+    margin-top: 40px;
+    display: block;
+    text-align: center;
+}
