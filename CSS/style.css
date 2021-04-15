@@ -1,0 +1,44 @@
+#leftheader {
+    margin-left: 10%;
+    margin-top: 20px;
+    display: block;
+
+}
+
+header h1  {
+    display: inline-block;
+    margin-left:10px ;
+
+
+}
+
+header p {
+    margin-left:50px ;
+
+}
+
+
+
+#leftheader  img {
+ 
+    display: block;
+    float: left;
+}
+
+#rightheader {
+    position: relative;
+    margin-right: 10%;
+    float: right;
+}
+
+hr.rounded {
+    
+    border-top: 8px solid #bbb;
+    border-radius: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+
+
+  }
+  
